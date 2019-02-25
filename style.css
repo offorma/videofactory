@@ -1,15 +1,28 @@
+
+.header {
+    padding-top: 10px;
+    box-shadow: 0 1px 7px -2px #cccccc;
+}
 .logo{
-    background-color: aquamarine;
 }
 .search{
-    background-color: blue;
 }
-.icons{
-    background-color: blueviolet;
+.icons {
+    float: right;
+}
+.icons ul li{
+    display: inline;
+    margin: 10px 10px 0px 10px;
+}
+.icons ul li.avatar{
+}
+.icons ul {
+    float: right;
 }
 .videoplayer{
-    background-color: darkcyan;
 }
 .playlist{
-    background-color: mediumorchid;
+}
+input {
+    border-radius: 1px !important;
 }
