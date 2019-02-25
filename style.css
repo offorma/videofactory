@@ -3,12 +3,38 @@
     padding-top: 10px;
     box-shadow: 0 1px 7px -2px #cccccc;
 }
-.logo{
+.logo > * {
+    vertical-align: middle;
+}
+
+.menu{
+    margin-left: 10px;
+}
+.logo-group{
+    margin-top: 10px;
+}
+.logo-div{
+    display: inline;
+    margin-top: 10px;
 }
 .search{
 }
+.logo-image{
+    margin-left: 25px;
+}
+.logo-text{
+    display: inline;
+    margin-left: -14px;
+    font-size: 1.04rem !important;
+}
 .icons {
     float: right;
+}
+.video-player{
+    width: 1200px;
+    height: 670px;
+    margin-left: 80px;
+    margin-top: 40px;
 }
 .icons ul li{
     display: inline;

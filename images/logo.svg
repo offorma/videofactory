@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 53 53" style="enable-background:new 0 0 53 53;" xml:space="preserve">
-<line style="fill:none;stroke:#7383BF;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;" x1="20.132" y1="33.5" x2="12.711" y2="49.5"/>
-<line style="fill:none;stroke:#7383BF;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;" x1="20.132" y1="33.5" x2="27.553" y2="49.5"/>
-<path style="fill:#EFCE4A;" d="M50.02,31.428L37.511,19.474c-0.696-0.703-0.679-1.847,0.038-2.528L50.058,5.4
-	C51.172,4.342,53,5.139,53,6.683V18.19v11.993C53,31.752,51.12,32.537,50.02,31.428z"/>
-<path style="fill:#363E4B;" d="M34.827,33.5H3.791C1.697,33.5,0,31.803,0,29.709V6.444C0,4.275,1.775,2.5,3.944,2.5h31.112
-	C37.234,2.5,39,4.266,39,6.444v22.883C39,31.622,37.122,33.5,34.827,33.5z"/>
-<circle style="fill:#EFCE4A;" cx="11.5" cy="14" r="5.5"/>
-<line style="fill:none;stroke:#FFFFFF;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;" x1="13" y1="14.5" x2="18" y2="19.5"/>
+	 viewBox="0 0 56 56" style="enable-background:new 0 0 56 56;" xml:space="preserve">
+<path style="fill:#424A60;" d="M40.693,47.277H3.307C2.033,47.277,1,46.244,1,44.97V19.584c0-1.274,1.033-2.307,2.307-2.307h37.386
+	c1.274,0,2.307,1.033,2.307,2.307V44.97C43,46.244,41.967,47.277,40.693,47.277z"/>
+<path style="fill:#556080;" d="M52.074,47.465L43,43.277v-22l9.074-4.188C53.907,16.243,56,17.582,56,19.601v25.352
+	C56,46.972,53.907,48.311,52.074,47.465z"/>
+<path style="fill:none;stroke:#424A60;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;" d="M1,9.277h32c1.1,0,2,0.9,2,2
+	v6"/>
 <g>
 </g>
 <g>
