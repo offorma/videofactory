@@ -111,13 +111,17 @@ input {
 }
 .video-description h6 {
     font-weight: 400;
-
 }
 .video-description {
     margin-top: 14px;
-
 }
 .image-action-item{
     margin: 0% 1.5% 0% 1.5%;
     font-size: small;
+}
+.video-description {
+    margin-left: 0px
+}
+.subscribe {
+    margin-left: 292%
 }
