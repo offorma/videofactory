@@ -39,7 +39,7 @@ div.up-next > p {
     margin-top: 40px;
 }
 .main-title{
-    margin-left: ;
+    margin-left: -2%;
     margin-top: 2%;
 }
 .autoplay{
@@ -94,10 +94,11 @@ input {
     margin-left: 30px;
 }
 .image-actions {
-    height: 24px;
-    width: 24px;
+    height: 16px;
+    width: 16px;
 }
 .icon-list {
+<<<<<<< HEAD
     list-style: none !important;
 }
 .subscribe {
@@ -114,4 +115,12 @@ input {
 }
 .video-description {
     margin-top: 14px;
+=======
+    margin-top: 3%;
+    margin-left: 60%;
+}
+.image-action-item{
+    margin: 0% 1.5% 0% 1.5%;
+    font-size: small;
+>>>>>>> 89f0f588313ad7bcd1c8be203f84543ac9f4310f
 }
