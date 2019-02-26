@@ -100,7 +100,21 @@ input {
 }
 .icon-list {
     margin-top: 3%;
-    margin-left: 60%;
+    margin-left: 50%;
+}
+.subscribe {
+    margin-left: 258%;
+}
+.channel-icon {
+    height: 47%;
+    width: 109%;
+    margin-top: 1px;
+}
+.video-description h6 {
+    font-weight: 400;
+}
+.video-description {
+    margin-top: 14px;
 }
 .image-action-item{
     margin: 0% 1.5% 0% 1.5%;
