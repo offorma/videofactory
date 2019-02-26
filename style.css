@@ -98,29 +98,16 @@ input {
     width: 16px;
 }
 .icon-list {
-<<<<<<< HEAD
-    list-style: none !important;
-}
-.subscribe {
-    margin-left: 258%;
-}
-.channel-icon {
-    height: 47%;
-    width: 109%;
-    margin-top: 1px;
-}
-.video-description h6 {
-    font-weight: 400;
-
-}
-.video-description {
-    margin-top: 14px;
-=======
     margin-top: 3%;
     margin-left: 60%;
 }
 .image-action-item{
     margin: 0% 1.5% 0% 1.5%;
     font-size: small;
->>>>>>> 89f0f588313ad7bcd1c8be203f84543ac9f4310f
+}
+.video-description {
+    margin-left: 0px
+}
+.subscribe {
+    margin-left: 292%
 }
