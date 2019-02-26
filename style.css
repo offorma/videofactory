@@ -98,8 +98,8 @@ input {
     width: 16px;
 }
 .icon-list {
-<<<<<<< HEAD
-    list-style: none !important;
+    margin-top: 3%;
+    margin-left: 60%;
 }
 .subscribe {
     margin-left: 258%;
@@ -115,12 +115,9 @@ input {
 }
 .video-description {
     margin-top: 14px;
-=======
-    margin-top: 3%;
-    margin-left: 60%;
+
 }
 .image-action-item{
     margin: 0% 1.5% 0% 1.5%;
     font-size: small;
->>>>>>> 89f0f588313ad7bcd1c8be203f84543ac9f4310f
 }
