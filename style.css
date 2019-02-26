@@ -135,3 +135,15 @@ input {
 .comment-button-section {
     margin-left: 56%;
 }
+.commenter-username {
+    font-weight: 400;
+    margin-right: 12px
+
+}
+.commenter-username-section {
+    margin-bottom: 10px
+}
+.comment-time {
+    font-size: 15px;
+    margin-top: 2px;
+}
