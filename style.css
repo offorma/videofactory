@@ -100,3 +100,18 @@ input {
 .icon-list {
     list-style: none !important;
 }
+.subscribe {
+    margin-left: 258%;
+}
+.channel-icon {
+    height: 47%;
+    width: 109%;
+    margin-top: 1px;
+}
+.video-description h6 {
+    font-weight: 400;
+
+}
+.video-description {
+    margin-top: 14px;
+}
