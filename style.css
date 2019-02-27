@@ -103,7 +103,7 @@ input {
     margin-left: 50%;
 }
 .subscribe {
-    margin-left: 63%;
+    margin-left: 40%;
 }
 iframe{
     margin-top: 5%;
@@ -139,8 +139,7 @@ iframe{
 }
 .commenter-username {
     font-weight: 400;
-    margin-right: 12px
-
+    margin-right: 9px;
 }
 .commenter-username-section {
     margin-bottom: 10px
@@ -151,4 +150,13 @@ iframe{
 }
 #player {
     margin-top: 10%;
+}
+.commenter-avater    {
+    height: 47%;
+    width: 157%;
+    margin-top: -22%;
+}
+.commenter-text {
+    font-size: .79rem;
+    font-weight: 400;
 }
