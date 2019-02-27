@@ -103,7 +103,12 @@ input {
     margin-left: 50%;
 }
 .subscribe {
-    margin-left: 258%;
+    margin-left: 63%;
+}
+iframe{
+    margin-top: 5%;
+    width: 1085px;
+    height: 580px;
 }
 .channel-icon {
     height: 47%;
@@ -122,9 +127,6 @@ input {
 }
 .video-description {
     margin-left: 0px
-}
-.subscribe {
-    margin-left: 292%
 }
 .video-description h6 {
     font-weight: 400
