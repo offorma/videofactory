@@ -51,7 +51,7 @@ div.up-next > p {
     margin-left: 5%;
 }
 .playlist{
-    margin-top: 40px;
+    margin-top: 5%;
 }
 .icons ul li{
     display: inline;
@@ -86,6 +86,7 @@ input {
 }
 .bottom-line {
     border-bottom: 1px solid #cccccc;
+    margin-top: 20px;
 }
 .total-comments{
     display: inline;
@@ -124,4 +125,28 @@ input {
 }
 .subscribe {
     margin-left: 292%
+}
+.video-description h6 {
+    font-weight: 400
+}
+.comment-section {
+    margin-top: 2%;
+}
+.comment-button-section {
+    margin-left: 56%;
+}
+.commenter-username {
+    font-weight: 400;
+    margin-right: 12px
+
+}
+.commenter-username-section {
+    margin-bottom: 10px
+}
+.comment-time {
+    font-size: 15px;
+    margin-top: 2px;
+}
+#player {
+    margin-top: 10%;
 }
