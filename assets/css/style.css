@@ -14,16 +14,15 @@
     margin-top: 10px;
 }
 .logo-div{
-    display: inline;
     margin-top: 10px;
 }
-.search{
+.inline-block {
+    display: inline;
 }
 .logo-image{
     margin-left: 25px;
 }
 .logo-text{
-    display: inline;
     margin-left: -14px;
     font-size: 1.04rem !important;
 }
@@ -54,7 +53,6 @@ div.up-next > p {
     margin-top: 5%;
 }
 .icons ul li{
-    display: inline;
     margin: 10px 10px 0px 10px;
 }
 .icons ul li.avatar{
@@ -89,7 +87,6 @@ input {
     margin-top: 20px;
 }
 .total-comments{
-    display: inline;
 }
 .sort-comments{
     margin-left: -22%;
