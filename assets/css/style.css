@@ -1,0 +1,163 @@
+
+.header {
+    padding-top: 10px;
+    box-shadow: 0 1px 7px -2px #cccccc;
+}
+.logo > * {
+    vertical-align: middle;
+}
+
+.menu{
+    margin-left: 10px;
+}
+.logo-group{
+    margin-top: 10px;
+}
+.logo-div{
+    margin-top: 10px;
+}
+.inline-block {
+    display: inline;
+}
+.logo-image{
+    margin-left: 25px;
+}
+.logo-text{
+    margin-left: -14px;
+    font-size: 1.04rem !important;
+}
+.icons {
+    float: right;
+}
+div.up-next > p {
+    margin-left: 5%;
+}
+.video-player{
+    width: 100%;
+    height: 75%;
+    margin-top: 40px;
+}
+.main-title{
+    margin-left: -2%;
+    margin-top: 2%;
+}
+.autoplay{
+    margin-left: 40px;
+}
+.playlist-image{    
+    width: 80%;
+    height: 89%;
+    margin-left: 5%;
+}
+.playlist{
+    margin-top: 5%;
+}
+.icons ul li{
+    margin: 10px 10px 0px 10px;
+}
+.icons ul li.avatar{
+}
+.icons ul {
+    float: right;
+}
+
+.playlist-right-text{
+    margin-left: -85px;
+}
+.playlist-contents {
+    margin-top: 20px;
+}
+input {
+    border-radius: 1px !important;
+}
+.video-title h6{
+    font-weight: bold;
+}
+.left-section {
+    margin-left: 5%;
+}
+.up-next-section {
+    margin-bottom: -24px;
+}
+.video-actions {
+
+}
+.bottom-line {
+    border-bottom: 1px solid #cccccc;
+    margin-top: 20px;
+}
+.total-comments{
+}
+.sort-comments{
+    margin-left: -22%;
+}
+.image-actions {
+    height: 16px;
+    width: 16px;
+}
+.icon-list {
+    margin-top: 3%;
+    margin-left: 50%;
+}
+.subscribe {
+    margin-left: 40%;
+}
+iframe{
+    margin-top: 5%;
+    width: 1085px;
+    height: 580px;
+}
+.channel-icon {
+    height: 47%;
+    width: 109%;
+    margin-top: 1px;
+}
+.video-description h6 {
+    font-weight: 400;
+}
+.video-description {
+    margin-top: 14px;
+}
+.image-action-item{
+    margin: 0% 1.5% 0% 1.5%;
+    font-size: small;
+}
+.video-description {
+    margin-left: 0px
+}
+.video-description h6 {
+    font-weight: 400
+}
+.comment-section {
+    margin-top: 2%;
+    margin-bottom: 4%
+}
+.comment-button-section {
+    margin-left: 56%;
+}
+.commenter-username {
+    font-weight: 400;
+    margin-right: 9px;
+}
+.commenter-username-section {
+    margin-bottom: 10px
+}
+.comment-time {
+    font-size: 15px;
+    margin-top: 2px;
+}
+#player {
+    margin-top: 10%;
+}
+.commenter-avater    {
+    height: 47%;
+    width: 157%;
+    margin-top: -22%;
+}
+.commenter-text {
+    font-size: .79rem;
+    font-weight: 400;
+}
+.total-comments h4 {
+    font-size: 1.2em;
+}
